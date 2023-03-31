@@ -1,6 +1,6 @@
 Name:		texlive-zx-calculus
 Version:	60838
-Release:	1
+Release:	2
 Summary:	A library to typeset ZX Calculus diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zx-calculus
