@@ -1,5 +1,5 @@
 Name:		texlive-zx-calculus
-Version:	69455
+Version:	70647
 Release:	1
 Summary:	A library to typeset ZX Calculus diagrams
 Group:		Publishing
