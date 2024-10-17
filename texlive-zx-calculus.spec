@@ -3,7 +3,7 @@ Version:	70647
 Release:	1
 Summary:	A library to typeset ZX Calculus diagrams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zx-calculus
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/zx-calculus
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zx-calculus.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zx-calculus.doc.r%{version}.tar.xz
